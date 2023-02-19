@@ -118,3 +118,24 @@ figcaption {
     font-weight: 900;
     color: #1f2937;
 }
+/*ThirdSection(Quote)*/
+.cont3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-color: #e5e7eb;
+    padding: 10vw 22vw;
+}
+.quote {
+    font-size: 48px;
+    text-align: center;
+    font-style: italic;
+}
+.quotename {
+    font-size: 32px;
+    align-self: flex-end;
+    font-weight: 900;
+    padding-right: 30px;
+}
