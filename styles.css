@@ -139,3 +139,41 @@ figcaption {
     font-weight: 900;
     padding-right: 30px;
 }
+/*FourthSection*/
+.cont4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 8vw 0;
+}
+.bluebox {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 20px;
+    padding: 1vw 4vw;
+    color: #f9faf8;
+    align-items: center;
+    gap: 4vw;
+}
+h3 {
+    font-size: 30px;
+    margin-bottom: 1vw;
+}
+.blueboxtext {
+    margin-top: 0;
+    font-size: 20px;
+}
+.signupbutton2 {
+    width: 10vw;
+    font-size: 22px;
+    padding: 8px 12px;
+    border-radius: 15px;
+    font-weight: 600;
+    background-color: #3882f6;
+    border: 4px solid #abceff;
+    color:#f9faf8 ;
+    margin-top: 8px;
+    flex: 0 0 auto;
+    overflow: hidden;
+}
