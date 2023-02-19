@@ -5,8 +5,6 @@ body {
     margin: 0;
     padding: 0;
 }
-.allpage {
-}
 /*HeaderStyling*/
 header {
     background-color: #1f2937;
@@ -126,7 +124,7 @@ figcaption {
     justify-content: center;
     margin: 0;
     background-color: #e5e7eb;
-    padding: 10vw 22vw;
+    padding: 8vw 22vw;
 }
 .quote {
     font-size: 48px;
@@ -176,4 +174,14 @@ h3 {
     margin-top: 8px;
     flex: 0 0 auto;
     overflow: hidden;
+}
+/*Footer*/
+footer {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    align-items: center;
+    height: 3vw;
+    font-size: 16px;
+    color: #e5e7eb;
 }
